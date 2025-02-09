@@ -2,7 +2,7 @@
 
 
 ## 📌 Overview  
-This project focuses on building a **scalable, secure, and redundant network architecture** using:  
+This thesis focuses on building a scalable, secure, and redundant network architecture using:  
 - **DMVPN Phase 3** with **GRE** and **NHRP** for dynamic tunneling  
 - **IPSec** for encrypted and authenticated VPN communication  
 - **BGP** for efficient and flexible routing  
@@ -11,7 +11,7 @@ This project focuses on building a **scalable, secure, and redundant network arc
 
 
 ## ⚙️ Technologies Used  
-- **Dynamic Multipoint VPN (DMVPN)**
+- **Dynamic Multipoint Virtual Private Network (DMVPN)**
 - **Generic Routing Encapsulation (GRE)**
 - **Next Hop Resolution Protocol (NHRP)**
 - **Border Gateway Protocol (BGP)**
