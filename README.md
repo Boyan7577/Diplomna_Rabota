@@ -32,7 +32,7 @@ This thesis focuses on building a scalable, secure, and redundant network archit
 
 
 ## Link To Materials:
-[](https://drive.google.com/drive/folders/1xW6NqwqRSWoD4p3sTW3Hmx_AiyVR3kQD)
+![](https://drive.google.com/drive/folders/1xW6NqwqRSWoD4p3sTW3Hmx_AiyVR3kQD)
 
 
 ## 📢 Made by
