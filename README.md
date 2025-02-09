@@ -31,6 +31,10 @@ This thesis focuses on building a scalable, secure, and redundant network archit
 
 
 
+## Link To Materials:
+![Google_Drive](https://drive.google.com/drive/folders/1xW6NqwqRSWoD4p3sTW3Hmx_AiyVR3kQD)
+
+
 ## 📢 Made by
 📧 Email: boyan.b.zhechev.2020@elsys-bg.org
 
